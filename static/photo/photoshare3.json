@@ -1,0 +1,24 @@
+{
+    "statics": 0,
+    "messages": [{
+            "id": "18",
+            "title": "明星美女",
+            "img": "../../../static/img/photo/美女1.jpg",
+            "content": "",
+            "click": ""
+        },
+        {
+            "id": "19",
+            "title": "",
+            "img": "../../../static/img/photo/美女2.jpg",
+            "content": "明星美女",
+            "click": ""
+        }, {
+            "id": "20",
+            "title": "",
+            "img": "../../../static/img/photo/美女3.jpg",
+            "content": "明星美女",
+            "click": ""
+        }
+    ]
+}

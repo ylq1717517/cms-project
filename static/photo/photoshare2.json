@@ -1,0 +1,24 @@
+{
+    "statics": 0,
+    "messages": [{
+            "id": "15",
+            "title": "",
+            "img": "../../../static/img/photo/摄影1.webp",
+            "content": "摄影设计",
+            "click": ""
+        },
+        {
+            "id": "16",
+            "title": "",
+            "img": "../../../static/img/photo/摄影2.webp",
+            "content": "摄影设计",
+            "click": ""
+        }, {
+            "id": "17",
+            "title": "",
+            "img": "../../../static/img/photo/摄影3.webp",
+            "content": "摄影设计",
+            "click": ""
+        }
+    ]
+}

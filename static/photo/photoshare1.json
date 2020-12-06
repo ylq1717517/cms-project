@@ -1,0 +1,18 @@
+{
+    "statics": 0,
+    "messages": [{
+            "id": "13",
+            "title": "现代简洁明亮的现代家居",
+            "img": "../../../static/img/photo/家具1.jpeg",
+            "content": "1的全部数据",
+            "click": ""
+        },
+        {
+            "id": "14",
+            "title": "古典的美轮美奂的家具",
+            "img": "../../../static/img/photo/家具2.jpeg",
+            "content": "1的全部数据",
+            "click": ""
+        }
+    ]
+}

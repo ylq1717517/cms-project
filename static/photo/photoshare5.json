@@ -1,0 +1,12 @@
+{
+    "statics": 0,
+    "messages": [{
+            "id": "22",
+            "title": "日常生活",
+            "img": "../../../static/img/photo/日常1.jpg",
+            "content": "",
+            "click": ""
+        }
+
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "message": [
+
+        {
+            "name1": "list",
+            "name": "新闻资讯",
+            "img": "../../static/img/callme.png"
+        },
+        {
+            "name1": "photoshare",
+            "name": "图文分享",
+            "img": "../../static/img/feedback.png"
+        },
+        {
+            "name1": "goodslist",
+            "name": "商品展示",
+            "img": "../../static/img/goodShow.png"
+        },
+        {
+            "name1": "",
+            "name": "留言反馈",
+            "img": "../../static/img/news.png"
+        },
+        {
+            "name1": "",
+            "name": "搜索资讯",
+            "img": "../../static/img/picShare.png"
+        },
+        {
+            "name1": "",
+            "name": "联系我们",
+            "img": "../../static/img/search.png"
+        }
+
+    ]
+}
